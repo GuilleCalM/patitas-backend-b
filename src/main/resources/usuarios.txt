@@ -1,0 +1,4 @@
+1;41232365;123enwer%;Bruno Diaz;bruno@gmail.com
+1;41233355;12323t123%;Julio Diaz;julio@gmail.com
+2;41230055;123aaaaaa%;Sandra Diaz;sandra@gmail.com
+1;43332355;12123sdsr%;Rosa Diaz;rosa@gmail.com
